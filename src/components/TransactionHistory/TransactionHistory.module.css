@@ -1,0 +1,14 @@
+.transactionHistory {
+  margin: 0px 0px 0px 50px;
+  padding: 35px 0px 0px 0px;
+}
+
+thead th {
+  padding: 10px 50px;
+  background: lightpink;
+  color: #fff;
+}
+
+tbody td {
+  text-align: center;
+}
